@@ -1,6 +1,6 @@
-# API de Gestão de Choperia - Node.js, Express & Sequelize 🍻🚀
+# API de Gestão de Choperia - Node.js, Express & Prisma 🍻🚀
 
-Bem-vindo à API de Gestão de Choperia, um sistema desenvolvido para otimizar o gerenciamento de usuários, categorias, produtos e pedidos em uma choperia. Esta API foi construída utilizando **Node.js, Express, Sequelize, Bcrypt e JWT**, garantindo segurança, escalabilidade e eficiência no controle de pedidos e estoque.
+Bem-vindo à API de Gestão de Choperia, um sistema desenvolvido para otimizar o gerenciamento de usuários, categorias, produtos e pedidos em uma choperia. Esta API foi construída utilizando **Node.js, Express, Prisma, Bcrypt e JWT**, garantindo segurança, escalabilidade e eficiência no controle de pedidos e estoque.
 
 ## 📌 Visão Geral
 A API permite a criação e gerenciamento de usuários, categorias de produtos, itens do menu e pedidos. Além disso, é possível gerenciar mesas, adicionar e remover itens dos pedidos e controlar o fluxo de envio e finalização dos pedidos na cozinha.
@@ -8,7 +8,7 @@ A API permite a criação e gerenciamento de usuários, categorias de produtos, 
 ## 💡 Tecnologias Utilizadas
 - **Node.js** - Ambiente de execução para JavaScript no backend.
 - **Express** - Framework minimalista para construção de APIs.
-- **Sequelize** - ORM para interação com bancos de dados relacionais.
+- **Prisma** - ORM para interação com bancos de dados relacionais.
 - **PostgreSQL** - Banco de dados relacional para armazenar informações.
 - **Bcrypt** - Para criptografia segura de senhas dos usuários.
 - **JWT (JSON Web Token)** - Para autenticação e controle de acesso.
